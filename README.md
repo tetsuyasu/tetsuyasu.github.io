@@ -1,2 +1,3 @@
 # tetsuyasu.github.io
-まだ空だよ。
+
+Not yet.

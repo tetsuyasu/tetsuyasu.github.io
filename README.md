@@ -1,3 +1,5 @@
 # tetsuyasu.github.io
 
-Not yet.
+引っ越しました。
+
+https://gitlab.com/tetsuyasu
